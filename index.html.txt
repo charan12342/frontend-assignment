@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Frontend Assignment</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Frontend Assessment</h1>
+  <p>I have completed the Frontend Training and Quizzes.</p>
+  <button onclick="toggle()">Click Me</button>
+  <p id="text">Hello</p>
+
+  <script src="script.js"></script>
+</body>
+</html>
